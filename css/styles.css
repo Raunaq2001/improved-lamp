@@ -1,0 +1,76 @@
+body{
+  padding: 20px;
+  background-color: #ffffff;
+}
+#Location_Logo{
+  position: absolute;
+  left: 4.59%;
+  right: 91.06%;
+  top: 2.34%;
+  bottom: 94.98%;
+}
+#Location{
+  position: absolute;
+  left: 8%;
+  right: 47.58%;
+  top: 100%;
+  bottom: 94.87%;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 26px;
+  color: #000000;
+}
+#Bell{
+  position: absolute;
+  left: 88.41%;
+  right: 5.8%;
+  top: 3.5%;
+  bottom: 95.09%;
+}
+#searchBOX{
+  position: absolute;
+  left: 3%;
+  right: 4.59%;
+  margin-top: 70px;
+  background: #ECECEC;
+  border-radius: 12px;
+}
+.addRow1{
+  margin-top: 130px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+.search-form {
+  margin: 0 1rem;
+  flex-grow: 1;
+  min-width: 18rem;
+}
+.search-box {
+  width: 89.5%;
+  padding: .4rem;
+  background: #ECECEC;
+}
+#discover{
+  left: 2.2%;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 26px;
+  color: #000000;
+}
+.addRow2{
+  margin-top: 50px;
+}
+#recommendation{
+left: 2%;
+margin-top: 25px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 29px;
+color: #000000;
+}
